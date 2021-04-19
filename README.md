@@ -102,8 +102,9 @@ sns.barplot(xlabel, ylabel, data=df, palette="Paired").set_title(title)
 
 ```
 ## Charting result
-![](top25.png)
-![](charting.png)
+- ![](https://github.com/GUNDUPOOJA/Pooja_big_data_project/blob/main/top25.PNG)
+
+- ![](https://github.com/GUNDUPOOJA/Pooja_big_data_project/blob/main/charting.PNG)
 
 References 
 - https://github.com/thomastran7/big-data-final-project-tran
